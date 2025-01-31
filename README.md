@@ -29,3 +29,5 @@ Ordenação dos LEDs.
   <source src="images/Simulacao_Bitdoglab.mp4" type="video/mp4">
   Seu navegador não suporta vídeos.
 </video>
+
+Caso não apareça o vídeo [clique aqui](images/Simulacao_Bitdoglab.mp4) para donwload.
