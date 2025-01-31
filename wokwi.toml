@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Unidade4_Interrup_D27.uf2'
+elf = 'build/Unidade4_Interrup_D27.elf'
